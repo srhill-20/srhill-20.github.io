@@ -1,89 +1,44 @@
+# Spencer Hill
+**(208) 809-3488** | spencer.hill.id@gmail.com | 662 Trejo St, Rexburg, ID 83440
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+
+## EDUCATION
+**Bachelor of Business Analytics**  
+*Brigham Young University-Idaho* — Rexburg, ID  
+**Expected Graduation**: April 2025  
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## PROFESSIONAL SUMMARY
+Logical and detail-driven business analytics student with a strong foundation in banking, finance, and data-driven decision-making. Experienced in managing financial data and providing actionable insights to support group-focused projects.
 
+---
 
-## Currently
+## EXPERIENCE
 
-Standing on the shoulders of giants
+**Data and Consulting Project**  
+*RBDC: BYU-Idaho* — Rexburg, ID  
+**Jan 2024 – April 2024**  
+- Played key role in organization, analysis, and visualization of data for Fremont County School District
+- Demonstrated strong problem-solving abilities and attention to detail in analyzing complex data sets
+- Utilized tools such as Excel, Power BI, and Tableau to streamline data analysis, reporting, and wrangling
 
-### Specialized in
+**Driver Guide**  
+*Holland America Princess* — Denali State Park, AK  
+**April 2023 – Aug 2023**  
+- Skillfully operated motorcoaches, delivering engaging tour narration
+- Conducted vehicle inspections and basic maintenance for tour bus reliability
+- Utilized local knowledge to provide engaging passenger commentary
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Sales Associate**  
+*Aptive Pest Control* — Los Angeles, CA  
+**May 2022 – Aug 2022**  
+- Sold over $150k in revenue door to door
+- Developed communication and sales skills
+- Recognized as a high performer within the company
 
+---
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## LEADERSHIP / INTERESTS
+- Student mentor of 40+ students, assisting them in navigating the transition to college life
