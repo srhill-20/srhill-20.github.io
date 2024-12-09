@@ -1,1 +1,1 @@
-Sitemap: https://byuidatascience.github.io/datascience_portfolio/sitemap.xml
+Sitemap: https://srhill-20.github.io/sitemap.xml
